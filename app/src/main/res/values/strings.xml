@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WordCounterApp</string>
+    <string name="app_title">Word Counter</string>
+    <string name="input_label">Enter your text below:</string>
+    <string name="input_hint">Type your text here...</string>
+    <string name="spinner_label">Choose what to count:</string>
+    <string name="button_count">Count</string>
+    <string name="result_initial_text">Result will appear here.</string>
+    <string name="warning_empty_text">Please enter some text first!</string>
+
+    <!-- These will be used for the Spinner options -->
+    <string-array name="metrics_array">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Characters</item>
+        <item>Numbers</item>
+    </string-array>
+</resources>
