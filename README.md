@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** K M Azmaen Mahatub
-- **Student ID:** [Your ID]
+- **Student ID:** 2431607
 - **Course:** Mobile Applications Development Techniques
 - **Lab:** #2 - Word Counter
 
