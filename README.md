@@ -1,9 +1,9 @@
 # MADT Lab 2 - Word Counter App
 
 ## Student Information
-- **Name:** [Your Name]
+- **Name:** K M Azmaen Mahatub
 - **Student ID:** [Your ID]
-- **Course:** Mobile Application Development
+- **Course:** Mobile Applications Development Techniques
 - **Lab:** #2 - Word Counter
 
 ## Project Overview
@@ -15,12 +15,3 @@ Android application that counts text metrics (sentences, words, characters, numb
 - Proper string resource management
 - Input validation with Toast warnings
 - All lab requirements completed
-
-## Test Results
-Input: "Hello world. I have 2 cats and 3 dogs. That's 5 pets total!"
-- Sentences: 3
-- Words: 13
-- Characters: 59
-- Numbers: 3
-
-## Repository Structure
